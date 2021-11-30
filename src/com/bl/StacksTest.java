@@ -7,5 +7,10 @@ public class StacksTest {
 		stack.insert(30);
 		stack.insert(56);
 		stack.display();
+		stack.peak();
+		stack.pop();
+		stack.pop();
+		stack.pop();
+		stack.pop();
 	}
 }
