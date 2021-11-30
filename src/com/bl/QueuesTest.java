@@ -7,5 +7,12 @@ public class QueuesTest {
 		queue.insert(30);
 		queue.insert(70);
 		queue.display();
+		queue.peak();
+		queue.pop();
+		queue.display();
+		queue.pop();
+		queue.display();
+		queue.pop();
+		queue.pop();
 	}
 }
